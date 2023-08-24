@@ -1,4 +1,4 @@
-var antLensUser={"name":"project-theme2.myshopify.com","plan_id":null,"shopify_grandfathered":1,"currency":"MXN","synced_at":"2023-08-23T00:01:28.915764Z"};
+var antLensUser={"name":"project-theme2.myshopify.com","plan_id":null,"shopify_grandfathered":1,"currency":"MXN","synced_at":"2023-08-24T00:01:28.445253Z"};
 var antLensShopDomain='project-theme2.myshopify.com';
 var antLensBaseUrl='https://lens.pb-apps.com';
 var antLensCssUrl='https://d131su6txzv7zp.cloudfront.net/06f06490-700e-4493-8375-7daf5229afd0/css/ant-lens-app.css';
