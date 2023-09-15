@@ -166,9 +166,14 @@
         render 'header-search', input_id: 'Search-In-Modal-1'
       endif
     -%}
-
+                          <div class="redes">
+                       {%- render 'social-icons' -%}
+                     </div>
     {%- if section.settings.logo_position != 'middle-center' -%}
       {%- if request.page_type == 'index' -%}
+                                  <div class="redes">
+                       {%- render 'social-icons' -%}
+                     </div>
         <h1 class="header__heading">
       {%- endif -%}
           <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
